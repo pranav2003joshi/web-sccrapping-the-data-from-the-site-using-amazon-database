@@ -7047,7 +7047,7 @@ for filename in file_names:
         print(f'Failed to download {filename}')
 
 print('Download completed.')
-
+explain this in step by step points starting from inspect the target wesite and fing the amazon database link and all
 
 
 
